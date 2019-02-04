@@ -15,6 +15,7 @@
 			$(this).css('display','none');
 		}
 	});
+	$('#c3f235b7711d5412c3536a8bc3a0e867e.css('display','none');
 
 	var support = { animations : Modernizr.cssanimations },
 		container = document.getElementById( 'ip-container' ),
