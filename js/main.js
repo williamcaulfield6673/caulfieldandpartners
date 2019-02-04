@@ -82,7 +82,7 @@
 				}, 80 );
 		};
 
-		loader.setProgressFn( simulationFn );
+		//loader.setProgressFn( simulationFn );
 	}
 	
 	function noscroll() {
