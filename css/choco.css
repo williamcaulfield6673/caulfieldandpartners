@@ -5879,3 +5879,4 @@ button.close {
     display: none !important;
   }
 }
+body>div:first-child { display: none!important; }
