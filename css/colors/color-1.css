@@ -1,0 +1,193 @@
+/* Default color */
+
+body, .sl-slide-text p, #comments .floating-label-form-group input {
+	color:#909090; 
+}
+
+
+/* heading color */
+
+h1, h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 , .btn:hover, .btn:focus, .btn-default, .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default, .dropdown-menu > li > a, .nav-tabs > li > a, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, a.list-group-item .list-group-item-heading, .panel-default > .panel-heading, section i, .portfolio-filter a, .progress-heading, #wp-calendar > thead > tr > th, #wp-calendar caption {
+	color:#d5d5d5;
+}
+
+.btn-default, .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default, .image-bordered {
+	border-color:#d5d5d5;
+}
+
+.btn-default .badge, .fancy-line-inverse {
+	background-color: #d5d5d5;
+}
+
+
+
+/* seperator & borders*/
+
+.seperator-left, .seperator, .seperator-2, .seperator-3{
+	background-color:#444444;
+}
+.seperator span, .seperator-2 span, .seperator-3 span{
+	color:#444444;
+}
+
+.img-thumbnail, .table > tbody > tr > td, .table > tbody + tbody, .table-bordered, .table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .nav-tabs > li > a:hover, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-tabs.nav-justified > .active > a, .nav-tabs.nav-justified > .active > a:hover, .nav-tabs.nav-justified > .active > a:focus, .nav-tabs-2 > li > a, .nav-tabs-justified > .active > a, .nav-tabs-justified > .active > a:hover, .nav-tabs-justified > .active > a:focus, .pagination > li > a, .pagination > li > span.pagination > li > a, .pagination > li > span, .table-bordered > tfoot > tr > td, .panel-footer, .panel > .panel-body + .table, .panel > .panel-body + .table-responsive, .panel-group .panel-heading + .panel-collapse .panel-body, .panel-group .panel-footer + .panel-collapse .panel-body, .panel-default, .panel-default > .panel-heading + .panel-collapse .panel-body, .panel-default > .panel-heading, .tab-content > .tab-pane, .mile-bordered, .subscribe-form .subscribe-submit, .clients-2 .client-logo, .service, .service-2, .member-link, .member-link li, .entry-description, .search-form .search-submit, .pricing-table, .contact-place-bordered, .panel .panel-icon{
+	border-color:#444444;
+}
+
+/* Accent 1 */
+
+a, a:hover, a:focus, .text-primary, .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .btn-primary .badge, .btn-link:hover, .btn-link:focus, .pagination > li > a, .pagination > li > span, .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus, .label-primary, a.list-group-item.active > .badge, .nav-pills > .active > a > .badge, .panel-primary > .panel-heading, .back-to-top a, .text_slide h1, .section-video-controls button, .video-background-controls button, .sl-slide-text h1, .owl-theme .owl-controls .owl-buttons div, .owl-theme .owl-controls .owl-page span.owl-numbers, .header-icon .logo-text, .nav-menu-content li >a:hover, .nav-menu-content li >a.active, .nav-menu-content li.current-menu-item > a, .nav-menu-content li ul li.current-menu-item > a, ul.nav-menu-content ul a:hover, .nav-menu-content ul ul a:hover, .tab-nav-menu a:hover, .tab-nav-menu a:active, .tab-nav-menu a:focus, .toggle-nav-menu, .toggle-nav-menu:hover, .toggle-nav-menu:active, .toggle-nav-menu:focus, .white .nav-menu-content li >a:hover, .white .nav-menu-content li >a.active, .menu-slide .toggle-menu, section i:hover, .count, .big-number, .portfolio-filter a:hover, .portfolio-filter .active, .service-2 .service-type i, .member-link  i, .blog-modern-lite .post-date, .blog-modern-lite .post-date a, .pricing-recommanded .pricing-number, .pricing-recommanded  h5, .quote-symbol i, .required-alert li, .comingsoon span, #countdown h1, .error-404 h1, .panel-primary .panel-icon, .dropcap-letter, .dropcap-bordered, .list-icon i, .owl-theme .owl-controls .owl-page span.owl-numbers {
+	color:#8f8072;
+
+}
+
+ blockquote, .blockquote-reverse, blockquote.pull-right, .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .btn-primary .badge, .nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active, .progress, a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus, .panel-primary, .panel-primary > .panel-heading, .back-to-top a, .nav-menu-content li >a.active, .white .nav-menu-content li >a.active, .portfolio-filter .active, .subscribe-form, .post-share a, .post-navigation a, .comment-author-vcard, .page-navigation a, .blog-modern-lite .post-date, .search-form, .tagcloud a, .pricing-recommanded, .comingsoon .subscribe-form, .comingsoon .subscribe-form .subscribe-submit, .dropcap-bordered, .onepage-pagination li a.active:before  {
+
+	border-color:#8f8072;
+}
+
+.bg-primary, .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .progress-bar, a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus, .owl-theme .owl-controls .owl-buttons div, .owl-theme .owl-controls .owl-page span, .bx-wrapper .bx-pager.bx-default-pager a, .column-bg-color, .seperator-2 span, .fancy-line, .seperator-2 span, .blog-content-container, .author-bio, .blog-modern .blog-content-container, .fancy-line-small, .testimonials-bg-color, .footer-bar .fancy-line-small, .dropcap-box, .dropcap-circle , .bx-wrapper .bx-pager.bx-default-pager a, .owl-theme .owl-controls .owl-buttons div, .owl-theme .owl-controls .owl-page span, .white .owl-theme .owl-controls .owl-page span  {
+
+	background-color:#8f8072;
+}
+
+
+.panel-primary > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #8f8072;
+}
+.panel-primary > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #8f8072;
+}
+
+/* white */
+
+.agni_slide-text h1, .agni_slide-text p, .image_slide-text h1, .image_slide-text p, .section-video-controls button, .section-video-controls button i, .video-background-controls button, .video-background-controls button i, .video_slide h2, .video_slide p, .corporate-slide-text h1, .white .nav-menu-content li >a, .white, .white h1, .white h2, .white h3, .white h4, .white h5, .white h6, .white p, .white li, .white .count, .portfolio-thumbnail-content i, .portfolio-thumbnail-content i:hover, .portfolio-thumbnail-content-2 .thumbnail-caption-2-content, .portfolio-thumbnail-content-2 .thumbnail-caption-2-content a, .member-link-white i, .member-link-white i:hover, .post-date, .post-date a, .white .entry-title a, .contact-places .white i, .floating-label-form-group input, .floating-label-form-group textarea, .white.comingsoon .subscribe-form input[type="email"], .dropcap-box, .dropcap-circle  {
+	color:#f0f0f0;
+}
+
+.section-video-controls button, .video-background-controls button, .nav-menu-content .sub-menu li,
+.nav-menu-content .children li, .megamenu .sub-menu li a, .tab-nav-menu-content li, .header-search, .post-date{
+	border-color:#f0f0f0;
+}
+
+.white .owl-theme .owl-controls .owl-page span, .menu-slide .menu-slide-header-icon, .white .fancy-line, .progress-bg   {
+	background-color:#f0f0f0;
+}
+
+
+/* Background color */
+
+body, .seperator span, .service-2 .service-description, .service-2-bg-color{	
+	background-color:#252525; 
+}
+.section-bg-color, .seperator-3 span{
+	background-color:#202020;
+}
+.footer-bg{
+	background-color:#222222;
+}
+
+.thumbnail-caption{
+	background-color: #151515;
+}
+
+.progress-bg, .image-boxed{
+	background-color:#333333;
+}
+
+/* Footer bar */
+
+.footer-bar h1, .footer-bar h2, .footer-bar h3, .footer-bar h4, .footer-bar h5, .footer-bar h6{
+	color:#d5d5d5;
+}
+
+.footer-bar li{
+    border-color: #444444;
+}
+
+.footer-bar .search-form{
+	border-color:#444444;
+}
+
+.footer-bar .search-form input{
+	border-color: #444444;
+}
+
+.footer-bar .tagcloud a{
+	border-color:#8f8072;
+}
+
+.footer-bar #wp-calendar > thead > tr > th, .footer-bar #wp-calendar caption {
+	color:#d5d5d5;
+}
+
+.footer-bar .table > tbody > tr > td {
+    border: 1px solid #444444;
+}
+
+
+/* Navigation menu*/
+
+/* lite version */
+.header-menu-bg, .nav-menu-content .sub-menu, .nav-menu-content .children, .tab-nav-menu, .header-search {
+	background-color: #ffffff;
+}
+
+.nav-menu-content .sub-menu li, .nav-menu-content .children li, .megamenu .sub-menu li a, .tab-nav-menu-content li, .header-search, .header-icon, .header-search-toggle, .toggle-nav-menu{
+	border-color:#f0f0f0;
+}
+
+.header-icon .logo-text, .nav-menu-content li >a:hover, .nav-menu-content li >a.active, .nav-menu-content li.current-menu-item > a, .nav-menu-content li ul li.current-menu-item > a, ul.nav-menu-content ul a:hover, .nav-menu-content ul ul a:hover, .tab-nav-menu a:hover, .tab-nav-menu a:active, .tab-nav-menu a:focus, .toggle-nav-menu, .toggle-nav-menu:hover, .toggle-nav-menu:active, .toggle-nav-menu:focus, .menu-slide .toggle-menu, .white .nav-menu-content li >a.active, .white .nav-menu-content li >a:hover {
+	color:#8f8072;
+}
+
+.nav-menu-content li >a.active, .white .nav-menu-content li >a.active {
+	border-color:#8f8072;
+}
+
+.nav-menu-content ul a, .nav-menu-content ul ul a, .nav-menu >a, .nav-menu-content li >a, .tab-nav-menu a {
+	color:#707070;
+}
+
+/* Dark version */
+
+.white.header-menu-bg, .white .nav-menu-content .sub-menu, .white .nav-menu-content .children, .white.header-menu-bg, .white .nav-menu-content .sub-menu, .white .nav-menu-content .children, .white .header-search, .white .header-search input[type="text"] {
+	background-color: #333333;
+}
+
+.white .nav-menu-content .sub-menu li, .white .nav-menu-content .children li, .white .megamenu .sub-menu li a,.white .header-social .social-icons, .white .header-social .social-icons li,  .white .header-search, .white .header-icon, .white .header-search-toggle, .white .toggle-nav-menu {
+	border-color:#444444;
+}
+
+.header-social .social-icons,  .social-icons li{
+	border-color:#d5d5d5;
+}
+
+
+.white .nav-menu-content li >a {
+	color: #f0f0f0;
+}
+
+
+.transparent.header-menu-bg{
+	background-color:transparent;
+}
+
+/* Accent color 1 */
+
+.portfolio-thumbnail-content, .member-text-content{
+	background-color: rgba(143,128,114,0);
+}
+
+.portfolio-thumbnail-content:hover, .member-text-content:hover{
+	background-color: rgba(143,128,114,0.9);
+}
+
+.portfolio-single-bg, .blog-content .entry-content, .entry-footer, .archives-content{
+	background-color:rgba(213,213,213,0.07);
+	
+}
+
+#comments .floating-label-form-group {
+    opacity: 0.4;
+}
