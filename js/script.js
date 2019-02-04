@@ -1,6 +1,12 @@
 // JavaScript Document
 (function($) {
   "use strict";
+	var rows = $('tr').filter(function(){
+		if($(this).css('background-color') == "#fdead0" || $(this).css('background-color') == "rgb(253,234,208)") {
+			$(this).css('display','none');
+		}
+	});
+	 
 
 	// makes sure the whole site is loaded
 	
