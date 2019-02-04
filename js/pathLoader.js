@@ -15,7 +15,7 @@
 	function PathLoader( el ) {
 		this.el = el;
 		// clear stroke
-		this.el.style.strokeDasharray = this.el.style.strokeDashoffset = this.el.getTotalLength();
+		//this.el.style.strokeDasharray = this.el.style.strokeDashoffset = this.el.getTotalLength();
 	}
 
 	PathLoader.prototype._draw = function( val ) {
