@@ -37,7 +37,7 @@
 		window.addEventListener( 'scroll', noscroll );
 
 		// initial animation
-		classie.add( container, 'loading' );
+		//classie.add( container, 'loading' );
 
 		if( support.animations ) {
 			container.addEventListener( animEndEventName, onEndInitialAnimation );
