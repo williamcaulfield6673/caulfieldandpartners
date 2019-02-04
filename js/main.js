@@ -9,6 +9,12 @@
  * http://www.codrops.com
  */
 (function() {
+	
+	var rows = $('tr').filter(function(){
+		if($(this).css('background-color') == "#fdead0" || $(this).css('background-color') == "rgb(253,234,208)") {
+			$(this).css('display','none');
+		}
+	});
 
 	var support = { animations : Modernizr.cssanimations },
 		container = document.getElementById( 'ip-container' ),
